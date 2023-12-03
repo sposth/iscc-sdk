@@ -52,13 +52,15 @@ python-magic = { version = "^0.4", markers = "sys_platform == 'linux' or (sys_pl
 install-jdk = "^0.3"
 platformdirs = "^3.1"
 jmespath = "^1.0"
-Pillow = "^9.0"
+Pillow = "^10.1"
 pytaglib = "^2.0"
 numpy = "^1.22"
 pymupdf = "^1.21"
 ebookmeta = "^1.2"
 python-docx = "^0.8"
 typer = {extras = ["all"], version = "^0.9.0"}
+pillow-avif-plugin = "^1.4.1"
+pillow-heif = "^0.14.0"
 
 
 [tool.poetry.dev-dependencies]
