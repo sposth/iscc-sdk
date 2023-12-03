@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "iscc-sdk"
-version = "0.5.9"
+version = "0.6.0"
 description = "SDK for creating ISCCs (International Standard Content Codes)"
 authors = ["Titusz <tp@py7.de>"]
 license = "Apache-2.0"
 readme = "README.md"
 homepage = "https://sdk.iscc.codes"
 repository = "https://github.com/iscc/iscc-sdk"
-keywords=["iscc", "identifier", "media", "content", "hash", "blockchain", "similarity"]
+keywords=["iscc", "identifier", "media", "hash", "similarity"]
 classifiers=[
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
